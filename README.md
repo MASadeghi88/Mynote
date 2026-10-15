@@ -1,4 +1,5 @@
 # Ali's Notes
+Email : MohammadAli.sadeghzadeh@georgebrown.ca
 
 Personal notes and links for my Computer Systems Technician program at George Brown College.
 
